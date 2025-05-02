@@ -1,0 +1,2 @@
+python 'ply' library is required
+pip install ply
